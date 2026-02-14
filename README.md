@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhxbTRrZDl1OWpheDBqMjFubTR3cjV5MjdyYm1rbHFvZDlqdHQ5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vd8tNvUJl2PXZqOPe4/giphy.giff" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Profile Banner Animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9uczIzenFuOXZvd242MWg0ZWpta2dsanIwaGhpZGY2djF4eDlydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RNKevsZ30XqNV7V0NQ/giphy.gif" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Profile Banner Animation" />
 </div>
 <br/>
 
