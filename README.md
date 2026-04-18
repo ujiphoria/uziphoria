@@ -15,12 +15,6 @@ I'm an Information Systems student passionate about Full-Stack Development, buil
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### ⚡ Fun Facts
-- 🎬 Penggemar berat **Film & Anime**.
-- 🎨 Suka mengubah foto menjadi sketsa dan desain poster digital.
-- 🥘 Tertarik pada kuliner Oriental (versi sehat & vegan).
-
----
 
 ### 📫 Connect with Me
 
