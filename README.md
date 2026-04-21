@@ -22,7 +22,7 @@ I'm an Information Systems student passionate about Full-Stack Development, buil
   <a href="https://[Link-Portofolio-Kamu]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://instagram.com/[Username-Instagram-Kamu]" target="_blank">
+  <a href="https://instagram.com/ujiphoria" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@ [Username-Tiktok-Kamu]" target="_blank">
